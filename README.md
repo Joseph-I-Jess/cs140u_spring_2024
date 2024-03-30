@@ -1,7 +1,7 @@
-Last updated 02 April, 2023
+Last updated 30 March, 2023
 
 ### CS140U -- Introduction to Linux
-Spring 2023  
+Spring 2024  
 CRN: 40616  
 Credits: 4  
 Instructor: Joseph Jess  
@@ -21,7 +21,7 @@ A laboratory-intensive course that provides new users with an introduction to th
 
 ### 2. Class Time-space:
 1.  **Note**: This class is delivered in a flexible format (you will not need to attend live sessions).
-2.  **Lecture + demo + lab**: TR 1400 (2pm) -- 1620 (420pm), flexible, see Moodle for details
+2.  **Lecture + demo + lab**: asynchronous with additional meeting options when needed, see Moodle for details
 
 ---
 
@@ -95,5 +95,4 @@ see my administrative information document:
 [*Additional Administrative Information*](https://docs.google.com/document/d/1NTerBXVow4rFbZGEpWJKpkpA9DpyOSAfjzJ4FKhf0FU/ "Additional Administrative Information (Google Doc)" ).
 
 Changelog:
-1.  31 December, 2020, v1.0.0: initial release
-2.  02 April, 2023, v1.0.1: markdown for GitHub viewing
+1.  30 March, 2024, v1.0.0: initial release, based on https://github.com/Joseph-I-Jess/cs140u_spring_2023
