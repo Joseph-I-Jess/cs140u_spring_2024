@@ -20,8 +20,7 @@ A laboratory-intensive course that provides new users with an introduction to th
 ---
 
 ### 2. Class Time-space:
-1.  **Note**: This class is delivered in a flexible format (you will not need to attend live sessions).
-2.  **Lecture + demo + lab**: asynchronous with additional meeting options when needed, see Moodle for details
+1.  **Lecture + demo + lab**: asynchronous with additional meeting options when needed, see Moodle for details
 
 ---
 
